@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //ActionBar
+    <color name="purple_200">#FF499E95</color>
+    <color name="purple_500">#42B1B1</color>
+    <color name="purple_700">#3BAEA3</color>
+    <color name="teal_200">#499E95</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    //ActionBar
+    //text_button
+    <color name="blackbtn_log">#FF000000</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="blacktx_log">#FF000000</color>
+    <color name="blacktx_btn">#ffffff</color>
+
+    //text_button
+
+</resources>

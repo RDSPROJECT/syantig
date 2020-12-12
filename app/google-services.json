@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74105904564",
+    "project_id": "syantig-a0085",
+    "storage_bucket": "syantig-a0085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74105904564:android:24894e1f6e692087f7a6e1",
+        "android_client_info": {
+          "package_name": "com.example.syantig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74105904564-fcuh3np92q96834bptip54od98lmfg27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5FVtHfvUwJ6ZdD9hH72TWpMyk2dygVTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74105904564-fcuh3np92q96834bptip54od98lmfg27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

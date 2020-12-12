@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgv_log" type="id" />
+    <item name="nav_host_fragment" type="id" />
+    <item name="bottom_navigation" type="id" />
+</resources>
